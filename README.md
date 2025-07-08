@@ -1,2 +1,9 @@
-# Node_Desafio_VI
-Desafío Node VI
+# Desafio NodeJS SoftJobs 
+
+Modulo NodeJS 
+- Autenticación y Autorización de usuarios con JWT
+
+ 
+
+Desafio Latam
+#### Cristoffer Venega D.
