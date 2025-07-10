@@ -1,0 +1,31 @@
+2025-07-10T16:42:11.441Z - INFO - message: Servidor iniciado en el puerto 3000
+2025-07-10T16:43:06.055Z - INFO - message: Servidor iniciado en el puerto 3000
+2025-07-10T18:04:10.464Z - INFO - message: Servidor iniciado en el puerto 3000
+2025-07-10T18:04:35.366Z - PETICION - message: [object Object]
+2025-07-10T18:04:53.673Z - PETICION - message: [object Object]
+2025-07-10T18:05:21.695Z - PETICION - message: [object Object]
+2025-07-10T19:40:50.444Z - INFO - message: Servidor iniciado en el puerto 3000
+2025-07-10T19:40:51.812Z - PETICION - message: [object Object]
+2025-07-10T19:40:51.814Z - ERROR - message: Todos los campos son obligatorios
+2025-07-10T19:43:11.314Z - PETICION - message: [object Object]
+2025-07-10T19:43:11.444Z - INFO - message: Usuario registrado: cristoffer.venega@mail.com
+2025-07-10T20:31:06.333Z - INFO - message: Servidor iniciado en el puerto 3000
+2025-07-10T20:31:41.915Z - PETICION - message: [object Object]
+2025-07-10T20:31:42.000Z - ERROR - message: El email cristoffer.venega@mail.com ya está registrado
+2025-07-10T20:32:29.130Z - PETICION - message: [object Object]
+2025-07-10T20:32:29.214Z - ERROR - message: Error al registrar usuario: data must be a string or Buffer and salt must either be a salt string or a number of rounds
+2025-07-10T20:33:42.049Z - INFO - message: Servidor iniciado en el puerto 3000
+2025-07-10T20:33:48.874Z - PETICION - message: [object Object]
+2025-07-10T20:33:48.880Z - ERROR - message: Error al registrar usuario: data must be a string or Buffer and salt must either be a salt string or a number of rounds
+2025-07-10T20:34:17.678Z - INFO - message: Servidor iniciado en el puerto 3000
+2025-07-10T20:34:25.873Z - PETICION - message: [object Object]
+2025-07-10T20:34:25.891Z - INFO - message: Usuario registrado: cristoffer.venega@mail.com
+2025-07-10T20:34:37.459Z - INFO - message: Servidor iniciado en el puerto 3000
+2025-07-10T20:34:44.056Z - INFO - message: Servidor iniciado en el puerto 3000
+2025-07-10T20:34:47.442Z - PETICION - message: [object Object]
+2025-07-10T20:34:47.447Z - ERROR - message: El email cristoffer.venega@mail.com ya está registrado
+2025-07-10T20:35:23.469Z - PETICION - message: [object Object]
+2025-07-10T20:35:23.548Z - ERROR - message: Error al registrar usuario: data must be a string or Buffer and salt must either be a salt string or a number of rounds
+2025-07-10T20:39:16.914Z - INFO - message: Servidor iniciado en el puerto 3000
+2025-07-10T20:39:19.037Z - PETICION - message: [object Object]
+2025-07-10T20:39:19.042Z - ERROR - message: Error al registrar usuario: data must be a string or Buffer and salt must either be a salt string or a number of rounds
