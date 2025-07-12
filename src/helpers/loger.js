@@ -4,8 +4,8 @@ import 'dotenv/config';
 
 const logFile = process.env.LOG_FILE || './logs/server.log';
 
-export const addLog = async (evento, mensaje) => {
-    const logMensaje = `${new Date().toISOString()} - ${evento} - message: ${mensaje}`;
+export const addLog = async (evento, funcion, mensaje) => {
+    const logMensaje = `${new Date().toISOString()} - ${evento} / ${funcion} - message: ${mensaje}`;
     try{
         if (!existsSync(logFile)) {
             await appendFile(logFile, '');

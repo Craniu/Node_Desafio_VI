@@ -17,3 +17,4 @@ export const buscarPorEmailModel = async (email) => {
     const resultado = await pool.query(query);
     return resultado.rows[0];
 }
+

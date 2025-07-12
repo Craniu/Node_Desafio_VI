@@ -30,10 +30,20 @@ export const registrarUsuario = async (req, res) => {
     }
 }
 
-
-
-
-
-export const pageNotfound = async (req,res) => {
-     res.status(404).send('La ruta solicitada no existe.');
+//Buscar Usuario
+export const buscarUsuario = async (req, res) => {
+    try{
+        const {email} = req.body || {};
+    if(!email){
+        addLog('ERROR', 'BuscarUsuario', 'Usuario no valido')
+        return res.status(400).send('Usuario no valido');
+    }
+    const user = await buscarPorEmailModel(email);
+    return res.status(200).json({id: user.id, email: user.email, rol: user.rol, lenguage: user.lenguage});
+    }catch(e){
+        addLog('ERROR', 'BuscarUsuarios', e.message);
+        return res.status(500).send({Error: e.message})
+    }
 }
+
+

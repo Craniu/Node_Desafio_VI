@@ -1,6 +1,6 @@
 import { addLog } from "../src/helpers/loger.js";
 
-export const appMiddleware = async (req, res, next) => {
+export const logRutasMiddleware = async (req, res, next) => {
     const logMessage = {
             method: req.method,
             body: req.body,

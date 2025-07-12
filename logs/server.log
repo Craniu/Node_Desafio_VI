@@ -29,3 +29,90 @@
 2025-07-10T20:39:16.914Z - INFO - message: Servidor iniciado en el puerto 3000
 2025-07-10T20:39:19.037Z - PETICION - message: [object Object]
 2025-07-10T20:39:19.042Z - ERROR - message: Error al registrar usuario: data must be a string or Buffer and salt must either be a salt string or a number of rounds
+2025-07-12T04:30:44.810Z - INFO - message: Servidor iniciado en el puerto 3000
+2025-07-12T04:35:36.067Z - INFO - message: Servidor iniciado en el puerto 3000
+2025-07-12T04:36:36.930Z - PETICION - message: [object Object]
+2025-07-12T04:36:36.931Z - ERROR - message: Todos los campos son obligatorios
+2025-07-12T04:37:43.592Z - PETICION - message: [object Object]
+2025-07-12T04:37:43.809Z - INFO - message: Usuario registrado: cristoffer.venega@email.com
+2025-07-12T04:38:13.943Z - PETICION - message: [object Object]
+2025-07-12T04:38:14.150Z - INFO - message: Usuario registrado: copi.copi@email.com
+2025-07-12T04:38:33.859Z - PETICION - message: [object Object]
+2025-07-12T04:38:33.962Z - INFO - message: Usuario registrado: user1@email.com
+2025-07-12T04:39:05.309Z - PETICION - message: [object Object]
+2025-07-12T04:39:05.424Z - INFO - message: Usuario registrado: user2@email.com
+2025-07-12T04:39:16.019Z - PETICION - message: [object Object]
+2025-07-12T04:39:16.121Z - INFO - message: Usuario registrado: user3@email.com
+2025-07-12T04:40:18.075Z - INFO - message: Servidor iniciado en el puerto 3000
+2025-07-12T04:40:31.400Z - PETICION - message: [object Object]
+2025-07-12T04:40:59.883Z - PETICION - message: [object Object]
+2025-07-12T04:41:00.090Z - INFO - message: Usuario registrado: user4@email.com
+2025-07-12T05:02:29.080Z - INFO - message: Servidor iniciado en el puerto 3000
+2025-07-12T05:05:01.664Z - INFO - message: Servidor iniciado en el puerto 3000
+2025-07-12T05:05:49.834Z - INFO - message: Servidor iniciado en el puerto 3000
+2025-07-12T05:09:24.762Z - INFO - message: Servidor iniciado en el puerto 3000
+2025-07-12T05:09:37.375Z - INFO - message: Servidor iniciado en el puerto 3000
+2025-07-12T05:15:24.979Z - INFO / Servidor iniciado en el puerto 3000 - message: undefined
+2025-07-12T05:29:35.294Z - INFO / Servidor iniciado en el puerto 3000 - message: undefined
+2025-07-12T05:30:22.085Z - PETICION / [object Object] - message: undefined
+2025-07-12T05:35:44.385Z - INFO / Servidor iniciado en el puerto 3000 - message: undefined
+2025-07-12T05:35:53.603Z - PETICION / [object Object] - message: undefined
+2025-07-12T05:35:53.662Z - ERROR / LOGIN - message: secretOrPrivateKey must have a value
+2025-07-12T05:37:19.303Z - INFO / Servidor iniciado en el puerto 3000 - message: undefined
+2025-07-12T05:37:22.468Z - PETICION / [object Object] - message: undefined
+2025-07-12T05:37:22.527Z - ERROR / LOGIN - message: secretOrPrivateKey must have a value
+2025-07-12T05:39:40.369Z - INFO / Servidor iniciado en el puerto 3000 - message: undefined
+2025-07-12T05:39:44.334Z - PETICION / [object Object] - message: undefined
+2025-07-12T05:39:44.396Z - ERROR / LOGIN - message: invalid expiresIn option for string payload
+2025-07-12T05:41:00.533Z - INFO / Servidor iniciado en el puerto 3000 - message: undefined
+2025-07-12T05:41:03.927Z - PETICION / [object Object] - message: undefined
+2025-07-12T05:46:43.740Z - INFO / Servidor iniciado en el puerto 3000 - message: undefined
+2025-07-12T05:47:09.353Z - INFO / Servidor iniciado en el puerto 3000 - message: undefined
+2025-07-12T05:48:11.893Z - INFO / Servidor iniciado en el puerto 3000 - message: undefined
+2025-07-12T05:49:42.404Z - INFO / Servidor iniciado en el puerto 3000 - message: undefined
+2025-07-12T05:59:14.056Z - INFO / Servidor iniciado en el puerto 3000 - message: undefined
+2025-07-12T06:00:11.822Z - INFO / Servidor iniciado en el puerto 3000 - message: undefined
+2025-07-12T07:17:34.270Z - INFO / Servidor iniciado en el puerto 3000 - message: undefined
+2025-07-12T07:20:11.615Z - INFO / Servidor iniciado en el puerto 3000 - message: undefined
+2025-07-12T07:24:40.858Z - INFO / Servidor iniciado en el puerto 3000 - message: undefined
+2025-07-12T07:32:24.103Z - INFO / Servidor iniciado en el puerto 3000 - message: undefined
+2025-07-12T07:33:54.936Z - INFO / Servidor iniciado en el puerto 3000 - message: undefined
+2025-07-12T07:34:11.191Z - PETICION / [object Object] - message: undefined
+2025-07-12T07:34:11.195Z - ERROR / ValidaToken - message: e.message
+2025-07-12T07:34:37.802Z - PETICION / [object Object] - message: undefined
+2025-07-12T07:34:37.803Z - ERROR / ValidaToken - message: Token invalido
+2025-07-12T07:34:59.109Z - PETICION / [object Object] - message: undefined
+2025-07-12T07:34:59.111Z - ERROR / ValidaToken - message: e.message
+2025-07-12T07:35:18.969Z - INFO / Servidor iniciado en el puerto 3000 - message: undefined
+2025-07-12T07:35:23.194Z - PETICION / [object Object] - message: undefined
+2025-07-12T07:35:23.199Z - ERROR / ValidaToken - message: e.message
+2025-07-12T07:45:24.522Z - PETICION / [object Object] - message: undefined
+2025-07-12T07:45:34.953Z - PETICION / [object Object] - message: undefined
+2025-07-12T07:45:34.956Z - ERROR / ValidaToken - message: e.message
+2025-07-12T07:45:50.663Z - INFO / Servidor iniciado en el puerto 3000 - message: undefined
+2025-07-12T07:45:53.315Z - PETICION / [object Object] - message: undefined
+2025-07-12T07:45:53.320Z - ERROR / BuscarUsuario - message: Usuario no valido
+2025-07-12T07:46:41.127Z - PETICION / [object Object] - message: undefined
+2025-07-12T07:46:41.130Z - ERROR / BuscarUsuario - message: Usuario no valido
+2025-07-12T07:47:09.577Z - PETICION / [object Object] - message: undefined
+2025-07-12T07:47:51.069Z - INFO / Servidor iniciado en el puerto 3000 - message: undefined
+2025-07-12T07:47:53.470Z - PETICION / [object Object] - message: undefined
+2025-07-12T07:47:53.473Z - ERROR / BuscarUsuario - message: Usuario no valido
+2025-07-12T07:48:00.749Z - PETICION / [object Object] - message: undefined
+2025-07-12T07:50:57.363Z - INFO / Servidor iniciado en el puerto 3000 - message: undefined
+2025-07-12T07:51:01.301Z - PETICION / [object Object] - message: undefined
+2025-07-12T07:51:01.305Z - ERROR / ValidaToken - message: e.message
+2025-07-12T07:51:07.201Z - PETICION / [object Object] - message: undefined
+2025-07-12T07:51:18.978Z - PETICION / [object Object] - message: undefined
+2025-07-12T07:51:18.979Z - ERROR / ValidaToken - message: e.message
+2025-07-12T07:51:30.237Z - PETICION / [object Object] - message: undefined
+2025-07-12T07:52:45.222Z - INFO / Servidor iniciado en el puerto 3000 - message: undefined
+2025-07-12T07:52:50.957Z - INFO / Servidor iniciado en el puerto 3000 - message: undefined
+2025-07-12T07:53:43.125Z - PETICION / [object Object] - message: undefined
+2025-07-12T07:53:45.287Z - PETICION / [object Object] - message: undefined
+2025-07-12T07:53:45.290Z - ERROR / BuscarUsuario - message: Usuario no valido
+2025-07-12T07:53:45.293Z - PETICION / [object Object] - message: undefined
+2025-07-12T07:53:45.295Z - ERROR / BuscarUsuario - message: Usuario no valido
+2025-07-12T07:53:56.861Z - PETICION / [object Object] - message: undefined
+2025-07-12T07:53:56.966Z - INFO / Usuario registrado: docente@desafiolatam.com - message: undefined
+2025-07-12T07:54:30.263Z - INFO / Servidor iniciado en el puerto 3000 - message: undefined
